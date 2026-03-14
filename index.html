@@ -152,7 +152,7 @@ body{font-family:var(--font-b);background:var(--paper);color:var(--ink);}
         </div>
         <div class="feat mvp">
           <div class="feat-name"><span class="feat-icon"></span>Página pública de doação</div>
-          <div class="feat-desc">URL personalizada (doalive.com/usuario), banner, avatar, meta e ranking de apoiadores.</div>
+          <div class="feat-desc">URL personalizada (nemopix.com/usuario), banner, avatar, meta e ranking de apoiadores.</div>
         </div>
         <div class="feat mvp">
           <div class="feat-name"><span class="feat-icon"></span>Fluxo de doação PIX</div>
@@ -254,7 +254,7 @@ body{font-family:var(--font-b);background:var(--paper);color:var(--ink);}
       <div class="vs-table">
         <div class="vs-row header">
           <div class="vs-cell">Feature</div>
-          <div class="vs-cell our-hd">Doalive</div>
+          <div class="vs-cell our-hd">NemoPix</div>
           <div class="vs-cell">LivePix</div>
           <div class="vs-cell">PixGG</div>
         </div>
