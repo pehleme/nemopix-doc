@@ -454,7 +454,7 @@ body{font-family:var(--font-b);background:var(--bg);color:var(--text);}
         <div>
           <div style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:var(--muted);margin-bottom:8px;">Backend</div>
           <div class="stack-row">
-            <div class="stack-chip">Node.js / NestJS</div>
+            <div class="stack-chip">.Net</div>
             <div class="stack-chip">PostgreSQL</div>
             <div class="stack-chip">Redis</div>
             <div class="stack-chip">WebSocket</div>
